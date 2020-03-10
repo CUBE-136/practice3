@@ -1,0 +1,15 @@
+.red{
+    height:256px;
+    width:256px;
+    background-color:#FF0000;
+    z-index: 1;
+    position: absolute;
+}
+
+.blue{
+        height:256px;
+        width:256px;
+        background-color:#004EFF;
+        z-index: 2;
+        position: absolute;
+        left: 128px;
